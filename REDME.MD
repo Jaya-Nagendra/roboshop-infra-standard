@@ -1,3 +1,1 @@
-![alt text](roboshop.jpg)
-
-![alt text](sg.jpg)
+![alt text](roboshop.jpg) ![alt text](sg.jpg)
